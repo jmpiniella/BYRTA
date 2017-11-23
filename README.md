@@ -1,2 +1,2 @@
 # BYRTA
-Byrta es una aplicación de mainstrailing
+Byrta es una aplicación para el ejercicio de maintra maintrailing
